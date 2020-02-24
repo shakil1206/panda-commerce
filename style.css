@@ -27,6 +27,7 @@
 .cat1, .cat2, .cat3{
     padding: 10px 30px;
     border-radius: 10px;
+    margin-bottom: 10px;
 }
 
 .cat1{
